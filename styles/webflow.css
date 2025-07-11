@@ -89,3 +89,51 @@ nav {
     
     
 }
+
+/* main style */
+/* main{
+max-width: 1140px;
+  margin: 0 auto;
+} */
+
+.fullbody-clr{
+ background-color:rgba(211, 211, 220, 0.595);
+}
+
+/* action style */
+
+.action-title{
+    font-weight: bold;
+    font-size: 42px;
+    margin-bottom: 23px;
+    color: rgba(37, 36, 50, 1);
+}
+
+.action-subtitle{
+    font-weight: 400; 
+    font-size: 24px;
+    color: rgba(37, 36, 50, 0.5);
+    margin-bottom: 23px;
+
+}
+
+.action-content{
+    text-align: left;
+    width: 517px;
+    height: 203px;
+   
+}
+
+.action-margin{
+    display: flex;
+    justify-content: space-between;
+    margin: 120px 130px;
+   background-color:rgba(179, 177, 208, 0.149);
+ 
+   
+
+}
+
+.action-img{
+    border-radius: 48px;
+}
