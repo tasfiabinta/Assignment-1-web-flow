@@ -306,7 +306,7 @@ font-size: 15px;
   background-color: rgba(255, 255, 255, 0.582);
   height: 600px;
   text-align: center;
-  padding: 20px;
+  padding: 15px 1px;
 }
 footer li a{
   text-decoration: none;
