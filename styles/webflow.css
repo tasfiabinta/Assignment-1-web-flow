@@ -242,3 +242,62 @@ margin: 24px 24px;
   margin-top: 5px;
    color: rgba(0, 0, 0, 0.392);
 }
+
+/* Let's get in touch section */
+
+
+.form-title{
+
+font-weight: bold;
+font-size: 97px;
+color: rgba(0, 0, 0, 1);
+margin: 100px 5px;
+ 
+}
+
+.form{
+display: flex;
+  margin: 90px 130px 20px;
+ 
+  justify-content: space-between;
+  gap: 200px;
+  background-color: ;
+}
+
+label,input,textarea{
+  display: block;
+  margin-bottom: 10px;
+
+ 
+}
+
+.label{
+  font-size: 15px;
+  font-weight: bold;
+
+}
+
+.input{
+  padding: 20px 32px;
+border-radius: 10px;
+border: none;
+resize: none;
+width: 400px;
+font-size: 20px;
+
+
+
+
+}
+
+.submit{
+  width: 466px;
+}
+
+
+
+
+
+.form-data{
+  margin-left: 40px;
+}
